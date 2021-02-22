@@ -184,7 +184,6 @@ button:hover {
 
 .section-intro {
     width: 100%;
-    height: 100vh;
     min-height: 707px;
     background: url("../assets/images/bg.png") center no-repeat;
     background-size: cover;
@@ -1248,6 +1247,7 @@ button:hover {
 
     .projects__right img {
         max-width: 100%;
+        height: auto;
     }
 
     .projects__table.show_on_mobile {
